@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebConfs - A blog about web conferences</title>
+    <description>A blog about my favorite web conferences.</description>
+    <link>http://webconfs.me/</link>
+    <atom:link href="http://webconfs.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Jun 2015 09:24:09 -0500</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2015 09:24:09 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>SassConf</title>
+        <description>&lt;p&gt;SassConf is an awesome 2 day weekend conference for front-end developers and designrs who love Sass and are passionate about building better and more beautiful web sites.&lt;/p&gt;
+
+&lt;p&gt;This year, the conference is held in Austin, TX!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://webconfs.me/sass-conf</link>
+        <guid isPermaLink="true">http://webconfs.me/sass-conf</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Treehouse Meetups</title>
+        <description>&lt;p&gt;This is a post about all the awesome Treehouse meetups out there!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jun 2015 09:14:10 -0500</pubDate>
+        <link>http://webconfs.me/treehouse-meetups</link>
+        <guid isPermaLink="true">http://webconfs.me/treehouse-meetups</guid>
+        
+        
+        <category>meetups</category>
+        
+      </item>
+    
+      <item>
+        <title>Converge</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate facilisis massa, non tempor velit porta sed. Nulla mi lectus, condimentum non gravida ac, mattis ac magna. Mauris a nisi ipsum, ac feugiat urna.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://convergese.com/&quot;&gt;Check it out!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://webconfs.me/converge</link>
+        <guid isPermaLink="true">http://webconfs.me/converge</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Camp Sasser</title>
+        <description>&lt;p&gt;Camp Sass is a one-day, one-track Sass conference held in Atlanta, GA.  It’s hosted by Hampton Catlin, the inventor of Sass!&lt;/p&gt;
+
+&lt;p&gt;At this year’s conference, I had lots of fun, learned a ton, and met many talented web designers and deveopers.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 04:45:36 -0500</pubDate>
+        <link>http://webconfs.me/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://webconfs.me/welcome-to-jekyll</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>
